@@ -3,3 +3,5 @@ Second Commit
 
 This is my first repository.
 This is my second commit.
+
+It is fine today.
